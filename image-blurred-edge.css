@@ -1,7 +1,0 @@
-.image-blurred-edge {
-    background-image: url('https://avatars3.githubusercontent.com/u/10548119?v=3&s=460');
-    width: 460px;
-    height: 460px;
-    /* you need to match the shadow color to your background or image border for the desired effect*/
-    box-shadow: 0 0 8px 8px white inset;
-}
