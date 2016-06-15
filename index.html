@@ -1,10 +1,29 @@
+<!DOCTYPE html>
 <html>
-  <head>
-    <meta name="viewport" content="width=device-width, minimum-scale=0.1">
-    <title>My Profile</title>
-    </head>
-    <body style="margin: 0px;">
-    </body>
-      <div class="image-blurred-edge"></div>
-    </body>
+<head>
+<style>
+a {
+    display: inline-block;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    transition: 0.3s;
+}
+
+a:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+</style>
+</head>
+<body>
+
+<h2>Thumbnail Image as Link</h2>
+<p>Use the border property to create thumbnail images. Wrap an anchor around the image to use it as a link.</p>
+<p>Hover over the image and click on it to see the effect.</p>
+
+<a target="_blank" href="https://avatars3.githubusercontent.com/u/10548119?v=3&s=460">
+  <img src="https://avatars3.githubusercontent.com/u/10548119?v=3&s=460" alt="Paris" width="400" height="300">
+</a>
+
+</body>
 </html>
