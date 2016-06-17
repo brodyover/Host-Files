@@ -8,7 +8,6 @@
 <style>
 
 #vector {
-
     position: absolute;
     top: 50%;
     left: 50%;
@@ -21,22 +20,28 @@
     width: 675px;
     height: 675px;
 }
-
 #text1 {
+    padding: 0px 0px 0px 0px;
     position: absolute;
-
     color: grey;
     font-family: Tahoma;
-    font-size: 55px;
-    
     top: 50%;
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
+}
 
+}
+#text2 {
+    padding: 0px 0px 0px 0px;
+    position: absolute;
+    color: grey;
+    font-family: Tahoma;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
 }
 
 .shadow {-webkit-filter: drop-shadow(0px 2px 2px #4d4d4d);}
-
 </style>
 
 </head>
@@ -47,7 +52,9 @@
 
 <p class="shadow" id="vector"</p>
 
-<p id="text1">Error 404</p>
+<p><font size="55" id="text1">Error</p>
+<br />
+<p><font size="55" id="text2">404</p>
 
 </body>
 
