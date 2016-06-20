@@ -18,9 +18,9 @@ div {
 font-size: 60px;
     color: grey;
     font-family: Tahoma;
-	  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+	  display: flex;
+  justify-content: center;
+  align-items: center;
 
 
 }
