@@ -16,8 +16,9 @@
 div11 {
 box-shadow: 0px 2px 2px #f2f2f2;
 }
-.div2 {   
-
+.div2 {  
+ 
+font-size: 200%;
     color: grey;
     font-family: Tahoma;
 	text-align: center;
