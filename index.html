@@ -5,10 +5,11 @@
 <title>Brody Over</title>
 </head>
 
-<style>
+<style type="text/css">
 
 #vector {
-    position: absolute;
+    z-index: -1;
+	position: absolute;
     top: 50%;
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
@@ -19,42 +20,36 @@
     background-size: cover;
     width: 675px;
     height: 675px;
+	
+
 }
-#text1 {
-    padding: 0px 0px 0px 0px;
-    position: absolute;
+ #texttt {   
+    
     color: grey;
     font-family: Tahoma;
-    top: 50%;
-    left: 50%;
-    transform: translateX(-50%) translateY(-50%);
+    display: flex; 
 }
 
 }
-#text2 {
-    padding: 0px 0px 0px 0px;
-    position: absolute;
+#textt { 
     color: grey;
     font-family: Tahoma;
-    top: 50%;
-    left: 50%;
-    transform: translateX(-50%) translateY(-50%);
+    display: flex;
+    justify-content: center;
 }
+
 
 .shadow {-webkit-filter: drop-shadow(0px 2px 2px #4d4d4d);}
 </style>
 
-</head>
-
-<body>
 
 <body style="background-color:#f2f2f2;">
 
-<p class="shadow" id="vector"</p>
+<p class="shadow" id="vector"</p> <br>
 
-<p><font size="55" id="text1">Error</p>
-<br />
-<p><font size="55" id="text2">404</p>
+</font><font size="55" id="textt">Error</font> <br>
+
+</font><font size="900" id="texttt">Error</font>
 
 </body>
 
