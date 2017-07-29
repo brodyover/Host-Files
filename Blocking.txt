@@ -23,6 +23,11 @@ customer.worldstream.nl
 191.96.249.131
 media.trafficjunky.net
 s9v7j7a4.ssl.hwcdn.net
+direct.shodan.io
+census12.shodan.io
+c-66-235-5-254.sea.wa.customer.broadstripe.net
+broadstripe.net
+177.104.193.79
 
 #free websites
 canadianfreestuff.com
@@ -218,8 +223,6 @@ cdn5.userzoom.com
 syndication.twitter.com
 video.twimg.com
 analytics.twitter.com
-api.webtest.net
 mobile.twitter.com
 abs-0.twimg.com
 api.twitter.com
-api.webtest.net
