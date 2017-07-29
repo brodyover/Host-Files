@@ -156,6 +156,16 @@ support.snapchat.com
 businesshelp.snapchat.com
 scan.snapchat.com
 
+#iMessage
+gateway.push-apple.com.akadns.net
+17.172.238.226
+17.172.238.224
+17.172.238.215
+17.172.238.219
+17.172.238.222
+17.172.238.221
+17.172.238.217
+
 #rbc
 www.rbcroyalbank.com
 rbcroyalbank.com
