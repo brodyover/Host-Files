@@ -3,15 +3,15 @@ canadiancoupons.net
 freebies.com
 men.com
 shop.lululemon.com
-activum.nu
-direct.shodan.io
-dnsscan.shadowserver.org
-leth.cc
 static.doubleclick.net
 toronto.ctvnews.ca
 ctvnews.ca
-185.94.111.1
 www.pandora.net
+pussl17.com
+couchpota.to
+fansided.com
+
+#dns roamers
 digitalrealty.com
 c-66-235-5-254.sea.wa.customer.broadstripe.net
 4dae3a25.ftth.telfortglasvezel.nl
@@ -28,9 +28,19 @@ census12.shodan.io
 c-66-235-5-254.sea.wa.customer.broadstripe.net
 broadstripe.net
 177.104.193.79
-pussl17.com
-couchpota.to
-fansided.com
+activum.nu
+direct.shodan.io
+dnsscan.shadowserver.org
+shadowserver.org
+leth.cc
+185.94.111.1
+191.96.249.12
+internet2.edu
+c.afekv.com
+researchscan280.eecs.umich.edu
+www.qq.com
+scan-36.security.ipip.net
+trafficjunky.net
 
 #free websites
 canadianfreestuff.com
