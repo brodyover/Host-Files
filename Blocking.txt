@@ -29,6 +29,7 @@ c-66-235-5-254.sea.wa.customer.broadstripe.net
 broadstripe.net
 177.104.193.79
 pussl17.com
+couchpota.to
 
 #free websites
 canadianfreestuff.com
@@ -48,7 +49,6 @@ www.save.ca
 www.groupon.com
 www.websaver.ca
 www.smartsource.ca
-https://www.niagarafallstourism.com
 saveonenergy.ca
 awcoupon.ca
 couponscanada.smartcanucks.ca
@@ -162,16 +162,6 @@ support.snapchat.com
 businesshelp.snapchat.com
 scan.snapchat.com
 
-#iMessage
-gateway.push-apple.com.akadns.net
-17.172.238.226
-17.172.238.224
-17.172.238.215
-17.172.238.219
-17.172.238.222
-17.172.238.221
-17.172.238.217
-
 #rbc
 www.rbcroyalbank.com
 rbcroyalbank.com
@@ -205,8 +195,6 @@ www.gotinder.com
 gotinder.com
 use.typekit.net
 www.google-analytics.com
-p.typekit.net
-couchpota.to
 boards.greenhouse.io
 prod-usw2-jben.global.ssl.fastly.net
 cdnjs.cloudflare.com
