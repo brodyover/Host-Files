@@ -28,6 +28,7 @@ census12.shodan.io
 c-66-235-5-254.sea.wa.customer.broadstripe.net
 broadstripe.net
 177.104.193.79
+pussl17.com
 
 #free websites
 canadianfreestuff.com
