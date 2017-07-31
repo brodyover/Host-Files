@@ -41,6 +41,38 @@ external-rules.comprigo.com
 www.systemrequirementslab.com
 fbxcdn.com
 tracker2.wasabii.com.tw
+repubblica.it
+bet9ja.com   
+manoramaonline.com   
+providr.com
+ndtv.com
+gearbest.com
+orange.fr
+gamefaqs.com
+xfinity.com
+amazon.es
+ameblo.jp
+codeonclick.com
+metropcs.mobi
+slack.com
+aparat.com    
+blastingnews.com
+chaturbate.com  
+espn.com  
+fc2.com
+detail.tmall.com 
+ettoday.net
+google.co.th
+google.com.tr
+detail.tmall.com 
+amazon.co.jp
+ok.ru
+google.com.br
+google.co.in
+satellite.cs.washington.edu
+box.com
+line.me
+google.co.nz
 
 #skype
 api.mcr.skype.com
@@ -116,6 +148,7 @@ app-ab01.marketo.com
 s.amazon-adsystem.com
 
 #dns roamers
+192.26.136.242
 digitalrealty.com
 c-66-235-5-254.sea.wa.customer.broadstripe.net
 4dae3a25.ftth.telfortglasvezel.nl
