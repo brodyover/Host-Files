@@ -36,7 +36,23 @@ www.popculturediedin2009.com
 zeustracker.abuse.ch
 sysctl.org
 www.popsugar.com
+rules.comprigo.com
+www.comprigo.com
+external-rules.comprigo.com
+www.systemrequirementslab.com
+fbxcdn.com
+tracker2.wasabii.com.tw
 
+#skype
+api.mcr.skype.com
+go.trouter.io
+0.820.19.11.23.rst6.r.skype.net
+dsn0.d.skype.net
+edge.skype.com
+api.cc.skype.com
+b.config.skype.com
+www.skype.com
+web.skype.com
 
 #tumblr
 tumblr.co
@@ -163,6 +179,7 @@ www.hydroone.com
 westernizer.ca
 
 #clickbait
+www.espn.com
 21stCenturyWire.com
 ActivistPost.com
 BeforeItsNews.com
