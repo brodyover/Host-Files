@@ -33,8 +33,13 @@ safebrowsing.googleapis.com
 safebrowsing-cache.google.com
 cookiex.ngd.yahoo.com
 www.popculturediedin2009.com
+zeustracker.abuse.ch
+sysctl.org
+www.popsugar.com
+
 
 #tumbler 
+tumblr.co
 www.tumblrmerch.com
 tumblr.zendesk.com
 www.tumblr.com
