@@ -39,7 +39,7 @@ safebrowsing-cache.google.com
 cookiex.ngd.yahoo.com
 
 #tumbler 
-Www.tumbler.com
+www.tumbler.com
 *.tumbler.com
 tumblr.com
 assets.tumblr.com  
