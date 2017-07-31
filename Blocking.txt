@@ -73,6 +73,11 @@ satellite.cs.washington.edu
 box.com
 line.me
 google.co.nz
+eskimi.com
+seznam.cz
+oeeee.com
+
+
 
 #skype
 api.mcr.skype.com
