@@ -12,11 +12,6 @@ couchpota.to
 fansided.com
 safebrowsing.googleapis.com
 prod9-api.acompli.net
-yt3.ggpht.com
-r3---sn-uxa0n-tt1e.gvt1.com
-r1---sn-tt1e7n7e.googlevideo.com
-r1---sn-uxa0n-tt1e.googlevideo.com
-r1---sn-q4f7sn7r.googlevideo.com
 config.edge.skype.com
 key.mattfay.com.au
 i2.wp.com
@@ -37,10 +32,12 @@ changes.saladevs.com
 safebrowsing.googleapis.com
 safebrowsing-cache.google.com
 cookiex.ngd.yahoo.com
+www.popculturediedin2009.com
 
 #tumbler 
-www.tumbler.com
-*.tumbler.com
+www.tumblrmerch.com
+tumblr.zendesk.com
+www.tumblr.com
 tumblr.com
 assets.tumblr.com  
 68.media.tumblr.com
@@ -86,7 +83,6 @@ a1.mzstatic.com
 a3.mzstatic.com
 *.mzstatic.com
 ssl.apple.com
-itunes.apple.com
 mesu.apple.com
 su.itunes.apple.com
 itunes.apple.com.edgekey.net
