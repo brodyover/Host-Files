@@ -38,7 +38,7 @@ sysctl.org
 www.popsugar.com
 
 
-#tumbler 
+#tumblr
 tumblr.co
 www.tumblrmerch.com
 tumblr.zendesk.com
