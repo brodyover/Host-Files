@@ -12,11 +12,8 @@ couchpota.to
 fansided.com
 safebrowsing.googleapis.com
 prod9-api.acompli.net
-config.edge.skype.com
 key.mattfay.com.au
 i2.wp.com
-static.xx.fbcdn.net
-scontent-yyz1-1.xx.fbcdn.net
 wp.com
 i1.wp.com
 api.2creativemonsters.com
@@ -32,7 +29,6 @@ safebrowsing.googleapis.com
 safebrowsing-cache.google.com
 cookiex.ngd.yahoo.com
 www.popculturediedin2009.com
-zeustracker.abuse.ch
 sysctl.org
 www.popsugar.com
 rules.comprigo.com
@@ -80,6 +76,7 @@ oeeee.com
 
 
 #skype
+config.edge.skype.com
 api.mcr.skype.com
 go.trouter.io
 0.820.19.11.23.rst6.r.skype.net
