@@ -19,9 +19,6 @@ fansided.com
 safebrowsing.googleapis.com
 prod9-api.acompli.net
 key.mattfay.com.au
-i2.wp.com
-wp.com
-i1.wp.com
 api.2creativemonsters.com
 ig-s-d-a.akamaihd.net
 shopvac.cyngn.com
@@ -80,10 +77,29 @@ seznam.cz
 oeeee.com
 ww1.gsmtop.com
 regionaledge-cid.wtpgs.com
+selfserveapps.vzw.com
+alt1-safebrowsing.google.com
+chromeext.send-anywhere.com
+www.google-analytics.com
+www.useloom.com
+e6858.dsce9.akamaiedge.net
+
+#musicaly
+alog.umengcloud.com
+log.musical.ly
+api.musical.ly
+uop.musical.ly
+stats.appsflyer.com
+events.appsflyer.com
+alog.umengcloud.com
+
+#better net
+
 
 
 
 #skype
+a.config.skype.com
 config.edge.skype.com
 api.mcr.skype.com
 go.trouter.io
@@ -158,6 +174,13 @@ app-ab01.marketo.com
 s.amazon-adsystem.com
 
 #dns roamers
+reposify.com
+static.reposify.com
+cdn.jsdelivr.net
+maxcdn.bootstrapcdn.com
+assets.zendesk.com
+v2.zopim.com
+ec2-34-229-13-191.compute-1.amazonaws.com
 com
 185.94.111.1
 192.26.136.242
