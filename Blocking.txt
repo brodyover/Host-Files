@@ -78,6 +78,8 @@ google.co.nz
 eskimi.com
 seznam.cz
 oeeee.com
+ww1.gsmtop.com
+regionaledge-cid.wtpgs.com
 
 
 
@@ -156,6 +158,8 @@ app-ab01.marketo.com
 s.amazon-adsystem.com
 
 #dns roamers
+com
+185.94.111.1
 192.26.136.242
 digitalrealty.com
 c-66-235-5-254.sea.wa.customer.broadstripe.net
