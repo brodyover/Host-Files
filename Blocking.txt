@@ -1,3 +1,9 @@
+# sudo nano /etc/pihole/setupVars.conf
+# Update it to use an invalid address for blocked domains:
+# IPv4_address=0.0.0.0
+# nano /etc/pihole/gravity.list
+
+
 #other stuff
 canadiancoupons.net
 freebies.com
