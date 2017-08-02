@@ -229,6 +229,8 @@ app-ab01.marketo.com
 s.amazon-adsystem.com
 
 #dns roamers
+a.gtld-servers.net
+209.126.136.2   
 aquabazar.com
 6a88d6a3.openresolvertest.net
 xe-0.telnetscanproject.org.dllstx09.us.bb.gin.ntt.net
