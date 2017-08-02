@@ -83,6 +83,7 @@ chromeext.send-anywhere.com
 www.google-analytics.com
 www.useloom.com
 e6858.dsce9.akamaiedge.net
+a.root-servers.net
 
 #roku stuff
 customer-feedbacks.web.roku.com
