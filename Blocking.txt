@@ -84,7 +84,12 @@ www.google-analytics.com
 www.useloom.com
 e6858.dsce9.akamaiedge.net
 
+#roku stuff
+customer-feedbacks.web.roku.com
+
 #musicaly
+musically.zendesk.com
+musical.ly
 alog.umengcloud.com
 log.musical.ly
 api.musical.ly
@@ -92,11 +97,6 @@ uop.musical.ly
 stats.appsflyer.com
 events.appsflyer.com
 alog.umengcloud.com
-
-#better net
-
-
-
 
 #skype
 a.config.skype.com
@@ -112,6 +112,8 @@ www.skype.com
 web.skype.com
 
 #tumblr
+api.tumblr.com
+ls.srvcs.tumblr.com
 tumblr.co
 www.tumblrmerch.com
 tumblr.zendesk.com
@@ -174,6 +176,9 @@ app-ab01.marketo.com
 s.amazon-adsystem.com
 
 #dns roamers
+aquabazar.com
+6a88d6a3.openresolvertest.net
+xe-0.telnetscanproject.org.dllstx09.us.bb.gin.ntt.net
 reposify.com
 static.reposify.com
 cdn.jsdelivr.net
@@ -332,7 +337,22 @@ scarymommy.com
 www.slate.com
 www.wired.com
 
+#Sarahah
+sarahahstorage.blob.core.windows.net
+www.sarahah.com
+
+
+#betternet
+s3-us-west-1.amazonaws.com
+abn.betternet.co
+app.adjust.com
+settings.crashlytics.com
+cdn2.inner-active.mobi
+betternet-backend.herokuapp.com
+
 #snapchat
+sc-analytics.appspot.com
+app-analytics.snapchat.com
 feelinsonice.appspot.com
 appspot.l.google.com
 data.flurry.com
