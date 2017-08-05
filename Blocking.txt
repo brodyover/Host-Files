@@ -84,6 +84,7 @@ www.google-analytics.com
 www.useloom.com
 e6858.dsce9.akamaiedge.net
 a.root-servers.net
+a1051.b.akamai.net
 
 #roku stuff
 customer-feedbacks.web.roku.com
@@ -136,6 +137,9 @@ sb.scorecardresearch.com
 app.appsflyer.com
 
 #apple stuff
+17.253.20.125
+IN	17.253.20.253
+IN	17.253.14.125
 time-ios.apple.com
 pancake.cdn-apple.com.akadns.net
 init-p01md.apple.com.edgesuite.net
@@ -217,9 +221,13 @@ captive.apple.com
 10.courier-sandbox-push-apple.com.akadns.net
 st14p01sa.guzzoni-apple.com.akadns.net
 31-courier.push.apple.com   
-
-   
-    
+time.apple.com
+b.root-servers.net  
+e.ns.apple.com
+a.gtld-servers.net
+c.ns.apple.com
+f.gtld-servers.net
+l.root-servers.net
     
 #appboy???
 dev.appboy.com
@@ -229,6 +237,16 @@ app-ab01.marketo.com
 s.amazon-adsystem.com
 
 #dns roamers
+104-237-202-7.host-engine.com
+svist21.cz
+1x1.cz
+067.cz
+185.35.63.17
+185.35.62.26
+hoffmeister.be
+host171-215-177-94.serverdedicati.aruba.it
+185.94.111.1
+158.140.228.55
 a.gtld-servers.net
 209.126.136.2   
 aquabazar.com
