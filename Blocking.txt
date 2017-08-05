@@ -138,8 +138,8 @@ app.appsflyer.com
 
 #apple stuff
 17.253.20.125
-IN	17.253.20.253
-IN	17.253.14.125
+17.253.20.253
+17.253.14.125
 time-ios.apple.com
 pancake.cdn-apple.com.akadns.net
 init-p01md.apple.com.edgesuite.net
@@ -237,6 +237,8 @@ app-ab01.marketo.com
 s.amazon-adsystem.com
 
 #dns roamers
+dnsscan.shadowserver.org
+scan-09c.shadowserver.org
 104-237-202-7.host-engine.com
 svist21.cz
 1x1.cz
