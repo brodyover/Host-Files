@@ -5,6 +5,7 @@
 
 
 #other stuff
+hostgator.com
 canadiancoupons.net
 freebies.com
 men.com
@@ -237,20 +238,55 @@ app-ab01.marketo.com
 s.amazon-adsystem.com
 
 #dns roamers
+74.82.47.46
+152.238.86.18
+172.58.12.78
+41.141.116.120
+24.171.192.16
+185.35.63.17
+185.35.62.26
+185.94.111.1
+191.96.249.12
+177.104.193.79
+185.94.111.1
+158.140.228.55
+185.94.111.1
+192.26.136.242
+191.96.249.131
+209.126.136.2
+23.108.73.26
+scanresearch1.syssec.ruhr-uni-bochum.de
+ool-4356cf92.dyn.optonline.net
+75-139-146-54.dhcp.gwnt.ga.charter.com
+adsl-074-164-068-202.sip.bct.bellsouth.net
+scan-09a.shadowserver.org
+researchscan317.eecs.umich.edu
+customer.worldstream.nl
+xe-0.telnetscanproject.org.dllstx09.us.bb.gin.ntt.net
+ip68-14-24-104.ri.ri.cox.net
+ns536044.ip-139-99-8.net
+32.228.197.178.dynamic.wless.zhbmb00p-cgnat.res.cust.swisscom.ch
+dc-49.fiberdc.com.tr
+www.mil.am
+ip5f5be779.dynamic.kabel-deutschland.de
+stewie.novahost.bg
+caq83-3-88-127-136-154.fbx.proxad.net
+cpc103570-stkn17-2-0-cust166.11-2.cable.virginm.net
+ip51cc8c17.speed.planet.nl
+095-096-009-078.static.chello.nl
+host86-152-155-86.range86-152.btcentralplus.com
+host81-147-69-46.range81-147.btcentralplus.com
+45-20-28-58.lightspeed.hstntx.sbcglobal.net
+6a88d6a3.openresolverproject.org
 dnsscan.shadowserver.org
 scan-09c.shadowserver.org
 104-237-202-7.host-engine.com
 svist21.cz
 1x1.cz
 067.cz
-185.35.63.17
-185.35.62.26
 hoffmeister.be
 host171-215-177-94.serverdedicati.aruba.it
-185.94.111.1
-158.140.228.55
 a.gtld-servers.net
-209.126.136.2   
 aquabazar.com
 6a88d6a3.openresolvertest.net
 xe-0.telnetscanproject.org.dllstx09.us.bb.gin.ntt.net
@@ -261,9 +297,6 @@ maxcdn.bootstrapcdn.com
 assets.zendesk.com
 v2.zopim.com
 ec2-34-229-13-191.compute-1.amazonaws.com
-com
-185.94.111.1
-192.26.136.242
 digitalrealty.com
 c-66-235-5-254.sea.wa.customer.broadstripe.net
 4dae3a25.ftth.telfortglasvezel.nl
@@ -272,28 +305,23 @@ pool-100-33-104-36.nycmny.fios.verizon.net
 cpc16-bary4-2-0-cust124.5-1.cable.virginm.net
 212-233-214-5.optisprint.net
 customer.worldstream.nl
-191.96.249.131
 media.trafficjunky.net
 s9v7j7a4.ssl.hwcdn.net
 direct.shodan.io
 census12.shodan.io
 c-66-235-5-254.sea.wa.customer.broadstripe.net
 broadstripe.net
-177.104.193.79
 activum.nu
 direct.shodan.io
 dnsscan.shadowserver.org
 shadowserver.org
 leth.cc
-185.94.111.1
-191.96.249.12
 internet2.edu
 c.afekv.com
 researchscan280.eecs.umich.edu
 www.qq.com
 scan-36.security.ipip.net
 trafficjunky.net
-23.108.73.26
 learnengs.com
 
 #free websites
