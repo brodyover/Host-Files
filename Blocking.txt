@@ -238,6 +238,9 @@ app-ab01.marketo.com
 s.amazon-adsystem.com
 
 #dns roamers
+
+151.254.43.242
+94.128.248.11
 74.82.47.46
 152.238.86.18
 172.58.12.78
@@ -255,6 +258,15 @@ s.amazon-adsystem.com
 191.96.249.131
 209.126.136.2
 23.108.73.26
+151.254.106.162
+112.214.184.99
+93.169.95.110
+2-229-242-116.ip199.fastwebnet.it
+a91-155-14-184.elisa-laajakaista.fi
+bcde00ea.skybroadband.com
+141.209.186.58-rev.tcheturbo.net.br
+217-160-0-169.elastic-ssl.ui-r.com	
+zq6.quadmetrics.com
 scanresearch1.syssec.ruhr-uni-bochum.de
 ool-4356cf92.dyn.optonline.net
 75-139-146-54.dhcp.gwnt.ga.charter.com
