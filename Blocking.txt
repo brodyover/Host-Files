@@ -5,6 +5,7 @@
 
 
 #other stuff
+defcon.org
 www.improvemybrowser.com
 pussl18.com
 hostgator.com
@@ -249,7 +250,7 @@ s.amazon-adsystem.com
 
 
 
-
+host6-22-237-212.serverdedicati.aruba.it
 126.ip-149-56-131.net
 158.140.228.62
 191.96.249.67
