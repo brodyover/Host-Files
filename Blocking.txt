@@ -5,6 +5,8 @@
 
 
 #other stuff
+www.improvemybrowser.com
+pussl18.com
 hostgator.com
 canadiancoupons.net
 freebies.com
@@ -138,6 +140,7 @@ sb.scorecardresearch.com
 app.appsflyer.com
 
 #apple stuff
+gsp10-ssl.apple.com
 17.253.20.125
 17.253.20.253
 17.253.14.125
@@ -229,7 +232,11 @@ a.gtld-servers.net
 c.ns.apple.com
 f.gtld-servers.net
 l.root-servers.net
-    
+play.itunes.apple.com
+init.itunes.apple.com
+
+
+
 #appboy???
 dev.appboy.com
 content.appboy.com
@@ -239,8 +246,19 @@ s.amazon-adsystem.com
 
 #dns roamers
 
-151.254.43.242
+
+
+
+
+126.ip-149-56-131.net
+158.140.228.62
+191.96.249.67
+scan-09j.shadowserver.org
+c-73-29-172-40.hsd1.nj.comcast.net
 94.128.248.11
+151.254.43.242
+zq6.quadmetrics.com
+217-160-0-169.elastic-ssl.ui-r.com
 74.82.47.46
 152.238.86.18
 172.58.12.78
@@ -265,8 +283,6 @@ s.amazon-adsystem.com
 a91-155-14-184.elisa-laajakaista.fi
 bcde00ea.skybroadband.com
 141.209.186.58-rev.tcheturbo.net.br
-217-160-0-169.elastic-ssl.ui-r.com	
-zq6.quadmetrics.com
 scanresearch1.syssec.ruhr-uni-bochum.de
 ool-4356cf92.dyn.optonline.net
 75-139-146-54.dhcp.gwnt.ga.charter.com
@@ -335,6 +351,7 @@ www.qq.com
 scan-36.security.ipip.net
 trafficjunky.net
 learnengs.com
+
 
 #free websites
 canadianfreestuff.com
@@ -466,6 +483,11 @@ cdn2.inner-active.mobi
 betternet-backend.herokuapp.com
 
 #snapchat
+mvm.snapchat.com
+
+
+
+use.adserver.snapads.com
 sc-analytics.appspot.com
 app-analytics.snapchat.com
 feelinsonice.appspot.com
