@@ -2,9 +2,13 @@
 # Update it to use an invalid address for blocked domains:
 # IPv4_address=0.0.0.0
 # nano /etc/pihole/gravity.list
-scontent-yyz1-1.cdninstagram.com
+
+# scontent-yyz1-1.cdninstagram.com
 
 #other stuff
+accweb.mouv.desjardins.ca
+
+mobilecrashreporting.googleapis.com
 defcon.org
 www.improvemybrowser.com
 pussl18.com
@@ -246,8 +250,8 @@ app-ab01.marketo.com
 s.amazon-adsystem.com
 
 #dns roamers
-
-
+191.96.249.38	
+scan-09d.shadowserver.org
 
 
 host6-22-237-212.serverdedicati.aruba.it
@@ -434,7 +438,6 @@ Buzzfeed.com
 Euronews.com
 www.clickhole.com
 chron.com
-www.theverge.com
 inc.com
 frontlinevideos.com
 hellogiggles.com
