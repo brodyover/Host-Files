@@ -7,7 +7,7 @@
 
 #other stuff
 accweb.mouv.desjardins.ca
-
+ecosia.co
 mobilecrashreporting.googleapis.com
 defcon.org
 www.improvemybrowser.com
