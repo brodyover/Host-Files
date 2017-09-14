@@ -253,7 +253,6 @@ s.amazon-adsystem.com
 191.96.249.38	
 scan-09d.shadowserver.org
 c-73-199-11-252.hsd1.nj.comcast.net
-
 host6-22-237-212.serverdedicati.aruba.it
 126.ip-149-56-131.net
 158.140.228.62
@@ -477,7 +476,6 @@ www.wired.com
 sarahahstorage.blob.core.windows.net
 www.sarahah.com
 
-
 #betternet
 s3-us-west-1.amazonaws.com
 abn.betternet.co
@@ -488,9 +486,6 @@ betternet-backend.herokuapp.com
 
 #snapchat
 mvm.snapchat.com
-
-
-
 use.adserver.snapads.com
 sc-analytics.appspot.com
 app-analytics.snapchat.com
@@ -509,42 +504,6 @@ support.snapchat.com
 businesshelp.snapchat.com
 scan.snapchat.com
 chat-gateway195-prod.chat.snapchat.com
-
-#rbc
-www.rbcinsurance.com
-www.rbcbank.com
-www.rbcroyalbank.com
-rbcroyalbank.com
-nexus.ensighten.com
-stats.royalbank.com
-discover.rbcroyalbank.com
-rbc.bridgetrack.com
-s.ytimg.com
-www1.royalbank.com
-nexus.ensighten.com
-online.royalbank.com
-Rbcbank.com
-www.rbc.com
-www.rbcdirectinvesting.com
-www.rbcds.com
-www1.rbcbank.com
-www.rbcrewards.com
-www.rbcrewards.com
-www1.rbcinsurance.com
-www.rbcwealthmanagement.com
-www.rbcits.com
-online.rbcis.com
-www.rbccm.com
-www.rbcadvicecentre.com
-www.rbcgfs.com
-www.rbcbankusaredemption.com
-www.rbcbanqueroyale.com
-www.rbcgam.com
-funds.rbcgam.com
-www.rbcbanqueroyale.com
-www.rbcwealthmanagement.com
-rbccanadianopen.com
-www.rbcinsight.com
 
 #tinder
 www.gotinder.com
