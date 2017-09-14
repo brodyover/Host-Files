@@ -252,7 +252,7 @@ s.amazon-adsystem.com
 #dns roamers
 191.96.249.38	
 scan-09d.shadowserver.org
-
+c-73-199-11-252.hsd1.nj.comcast.net
 
 host6-22-237-212.serverdedicati.aruba.it
 126.ip-149-56-131.net
