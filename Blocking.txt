@@ -6,6 +6,19 @@
 # scontent-yyz1-1.cdninstagram.com
 
 #other stuff
+dns.msftncsi.com
+epdg.epc.mnc220.mcc302.pub.3gppnetwork.org
+accscdn.m.taobao.com
+cdp.cloud.unity3d.com
+cdn.covethome.com
+pixtestcs-a.akamaihd.net
+api.covethome.com
+cdn.resized-images.covethome.com
+designhome.helpshift.com
+c-dc.mgo-images.com
+rpc.tapjoy.com
+cdn.ampproject.org
+kinesis.us-east-1.amazonaws.com
 accweb.mouv.desjardins.ca
 ecosia.co
 mobilecrashreporting.googleapis.com
@@ -145,6 +158,13 @@ sb.scorecardresearch.com
 app.appsflyer.com
 
 #apple stuff
+	
+45-courier.push.apple.com
+keyvalueservice.icloud.com
+setup.icloud.com
+app-measurement.com
+gs-loc.apple.com
+p17-keyvalueservice.fe.apple-dns.net
 gsp10-ssl.apple.com
 17.253.20.125
 17.253.20.253
