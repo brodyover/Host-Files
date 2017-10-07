@@ -6,6 +6,7 @@
 # scontent-yyz1-1.cdninstagram.com
 
 #other stuff
+cf.sc-cdn.net
 dns.msftncsi.com
 epdg.epc.mnc220.mcc302.pub.3gppnetwork.org
 accscdn.m.taobao.com
@@ -158,7 +159,14 @@ sb.scorecardresearch.com
 app.appsflyer.com
 
 #apple stuff
-	
+gs-loc.apple.com
+p17-ckdatabase.icloud.com
+gspe21-ssl.ls.apple.com
+p17-fmfmobile.icloud.com
+gs-loc-new.ls-apple.com.akadns.net
+cl2.apple.com
+p17-ckdatabase.fe.apple-dns.net
+p17-content.fe.apple-dns.net	
 45-courier.push.apple.com
 keyvalueservice.icloud.com
 setup.icloud.com
