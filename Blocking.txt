@@ -108,6 +108,28 @@ e6858.dsce9.akamaiedge.net
 a.root-servers.net
 a1051.b.akamai.net
 
+#snapchat
+mvm.snapchat.com
+use.adserver.snapads.com
+sc-analytics.appspot.com
+app-analytics.snapchat.com
+feelinsonice.appspot.com
+appspot.l.google.com
+data.flurry.com
+feelinsonice-hrd.appspot.com
+feelinsonice.l.google.com
+app.snapchat.com
+feelinsonice.com
+snapchat.com
+www.snapchat.com
+accounts.snapchat.com
+www.snap.com
+support.snapchat.com
+businesshelp.snapchat.com
+scan.snapchat.com
+chat-gateway195-prod.chat.snapchat.com
+chat-gateway112-prod.chat.snapchat.com
+
 #roku stuff
 customer-feedbacks.web.roku.com
 
