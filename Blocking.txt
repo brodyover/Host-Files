@@ -6,6 +6,12 @@
 # scontent-yyz1-1.cdninstagram.com
 
 #other stuff
+maxcdn.bootstrapcdn.com
+tacdn.com
+static.tacdn.com
+yts.moatads.com
+yt3.ggpht.com
+dcs.adgear.com
 cf.sc-cdn.net
 dns.msftncsi.com
 epdg.epc.mnc220.mcc302.pub.3gppnetwork.org
