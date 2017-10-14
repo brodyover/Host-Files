@@ -189,13 +189,10 @@ app.appsflyer.com
 #apple stuff
 time-ios.apple.com
 query.ess.apple.com
-gspe1-ssl.ls.apple.com
-
 buy.itunes.apple.com
 time-ios.g.aaplimg.com
 www.apple.com
 gs-loc.apple.com
-p17-ckdatabase.icloud.com
 gspe21-ssl.ls.apple.com
 p17-fmfmobile.icloud.com
 gs-loc-new.ls-apple.com.akadns.net
@@ -207,16 +204,10 @@ keyvalueservice.icloud.com
 setup.icloud.com
 app-measurement.com
 gs-loc.apple.com
-p17-keyvalueservice.fe.apple-dns.net
-gsp10-ssl.apple.com
-17.253.20.125
-17.253.20.253
-17.253.14.125
 time-ios.apple.com
 pancake.cdn-apple.com.akadns.net
 init-p01md.apple.com.edgesuite.net
 init.ess.apple.com
-p44-keyvalueservice.fe.apple-dns.net
 sync.itunes.apple.com
 origin.guzzoni-apple.com.akadns.net
 xp.itunes-apple.com.akadns.net
@@ -230,52 +221,23 @@ xp.apple.com
 iphonesubmissions.apple.com
 time-ios.apple.com
 time-ios.g.aaplimg.com
-is5.mzstatic.com
-is1.mzstatic.com
-is3.mzstatic.com
-is2.mzstatic.com
-a5.mzstatic.com
-a4.mzstatic.com
-a1.mzstatic.com
-a3.mzstatic.com
-*.mzstatic.com
 ssl.apple.com
 mesu.apple.com
 su.itunes.apple.com
 itunes.apple.com.edgekey.net
 pancake.apple.com
-cl3-cdn.origin-apple.com.akadns.net
-p42-keyvalueservice.icloud.com
-1-courier.push.apple.com
-1-courier.sandbox.push.apple.com 
 gs.apple.com 
-gsp64-ssl.ls.apple.com
 captive.apple.com        
-1.courier-sandbox-push-apple.com.akadns.net
-p42-keyvalueservice.fe.apple-dns.net
 st14p01sa.guzzoni-apple.com.akadns.net
 gs.apple.com.akadns.net
-7-courier.sandbox.push.apple.com
-7.courier-sandbox-push-apple.com.akadns.net
 pop-namer-ne-courier.push-apple.com.akadns.net
 api-glb-ash.smoot.apple.com
-27-courier.push.apple.com
 s2.symcb.com
-3-courier.sandbox.push.apple.com
-init-p01st.push.apple.com
-3.courier-sandbox-push-apple.com.akadns.net   
-1-courier.push.apple.com    
 configuration.apple.com
 pop-namer-ne-courier.push-apple.com.akadns.net    
 st14p01sa.guzzoni-apple.com.akadns.net    
 captive.apple.com    
-
-
-
-st14p01sa.guzzoni-apple.com.akadns.net
- 
 time.apple.com
-b.root-servers.net  
 e.ns.apple.com
 a.gtld-servers.net
 c.ns.apple.com
@@ -284,17 +246,12 @@ l.root-servers.net
 play.itunes.apple.com
 init.itunes.apple.com
 
-
-
-
-
 #appboy???
 dev.appboy.com
 content.appboy.com
 netdna.bootstrapcdn.com
 app-ab01.marketo.com
 s.amazon-adsystem.com
-
 
 #free websites
 canadianfreestuff.com
@@ -326,7 +283,7 @@ www.hydroone.com
 westernizer.ca
 
 #clickbait
-www.espn.com
+
 21stCenturyWire.com
 ActivistPost.com
 BeforeItsNews.com
@@ -414,6 +371,9 @@ www.wired.com
 #Sarahah
 sarahahstorage.blob.core.windows.net
 www.sarahah.com
+api.sarahah.com
+sarahah.com
+az416426.vo.msecnd.net
 
 #betternet
 s3-us-west-1.amazonaws.com
