@@ -187,6 +187,13 @@ sb.scorecardresearch.com
 app.appsflyer.com
 
 #apple stuff
+time-ios.apple.com
+query.ess.apple.com
+gspe1-ssl.ls.apple.com
+
+buy.itunes.apple.com
+time-ios.g.aaplimg.com
+www.apple.com
 gs-loc.apple.com
 p17-ckdatabase.icloud.com
 gspe21-ssl.ls.apple.com
@@ -262,30 +269,11 @@ configuration.apple.com
 pop-namer-ne-courier.push-apple.com.akadns.net    
 st14p01sa.guzzoni-apple.com.akadns.net    
 captive.apple.com    
-31-courier.push.apple.com
-1-courier.sandbox.push.apple.com 
-2-courier.sandbox.push.apple.com	
-3-courier.sandbox.push.apple.com	
-4-courier.sandbox.push.apple.com
-5-courier.sandbox.push.apple.com
-6-courier.sandbox.push.apple.com
-7-courier.sandbox.push.apple.com
-8-courier.sandbox.push.apple.com
-9-courier.sandbox.push.apple.com
-10-courier.sandbox.push.apple.com
-11-courier.sandbox.push.apple.com
-1.courier-sandbox-push-apple.com.akadns.net
-2.courier-sandbox-push-apple.com.akadns.net                               
-3.courier-sandbox-push-apple.com.akadns.net
-4.courier-sandbox-push-apple.com.akadns.net
-5.courier-sandbox-push-apple.com.akadns.net
-6.courier-sandbox-push-apple.com.akadns.net	
-7.courier-sandbox-push-apple.com.akadns.net	
-8.courier-sandbox-push-apple.com.akadns.net	
-9.courier-sandbox-push-apple.com.akadns.net
-10.courier-sandbox-push-apple.com.akadns.net
+
+
+
 st14p01sa.guzzoni-apple.com.akadns.net
-31-courier.push.apple.com   
+ 
 time.apple.com
 b.root-servers.net  
 e.ns.apple.com
@@ -295,6 +283,8 @@ f.gtld-servers.net
 l.root-servers.net
 play.itunes.apple.com
 init.itunes.apple.com
+
+
 
 
 
