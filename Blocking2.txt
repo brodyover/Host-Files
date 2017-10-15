@@ -1,4 +1,18 @@
+
+#vpn
+139.162.148.158
+ec2-34-194-122-51.compute-1.amazonaws.com
+d1e5xacotudrwg.cloudfront.net
+wpc.32df9.rhocdn.net
+139.162.243.66
+vpn-servers-lb-1273940223.us-east-1.elb.amazonaws.com
+external.xx.fbcdn.net
+
+
+
 #other stuff
+pornhub.com
+xnxx.com
 coloredwool.us
 cognito-identity.us-east-1.amazonaws.com
 2217630246.log.optimizely.com
@@ -38,7 +52,6 @@ toronto.ctvnews.ca
 ctvnews.ca
 www.pandora.net
 pussl17.com
-
 fansided.com
 safebrowsing.googleapis.com
 prod9-api.acompli.net
