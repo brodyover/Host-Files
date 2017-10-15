@@ -1,4 +1,5 @@
 #other stuff
+cognito-identity.us-east-1.amazonaws.com
 2217630246.log.optimizely.com
 maxcdn.bootstrapcdn.com
 tacdn.com
@@ -107,6 +108,16 @@ www.useloom.com
 e6858.dsce9.akamaiedge.net
 a.root-servers.net
 a1051.b.akamai.net
+
+#pinterest
+trk.pinterest.com
+api.pinterest.com
+
+#google im
+instantmessaging-pa.googleapis.com
+
+#textme
+api.textme-app.com
 
 #musicaly
 musically.zendesk.com
