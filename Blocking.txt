@@ -6,6 +6,8 @@
 # scontent-yyz1-1.cdninstagram.com
 
 #other stuff
+
+2217630246.log.optimizely.com
 maxcdn.bootstrapcdn.com
 tacdn.com
 static.tacdn.com
@@ -114,28 +116,6 @@ e6858.dsce9.akamaiedge.net
 a.root-servers.net
 a1051.b.akamai.net
 
-#snapchat
-mvm.snapchat.com
-use.adserver.snapads.com
-sc-analytics.appspot.com
-app-analytics.snapchat.com
-feelinsonice.appspot.com
-appspot.l.google.com
-data.flurry.com
-feelinsonice-hrd.appspot.com
-feelinsonice.l.google.com
-app.snapchat.com
-feelinsonice.com
-snapchat.com
-www.snapchat.com
-accounts.snapchat.com
-www.snap.com
-support.snapchat.com
-businesshelp.snapchat.com
-scan.snapchat.com
-chat-gateway195-prod.chat.snapchat.com
-chat-gateway112-prod.chat.snapchat.com
-
 #roku stuff
 customer-feedbacks.web.roku.com
 
@@ -187,6 +167,9 @@ sb.scorecardresearch.com
 app.appsflyer.com
 
 #apple stuff
+profile.ess.apple.com
+static.ess.apple.com
+cf-st.sc-cdn.net
 time-ios.apple.com
 query.ess.apple.com
 buy.itunes.apple.com
@@ -283,7 +266,6 @@ www.hydroone.com
 westernizer.ca
 
 #clickbait
-
 21stCenturyWire.com
 ActivistPost.com
 BeforeItsNews.com
