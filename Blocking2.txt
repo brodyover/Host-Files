@@ -36,7 +36,7 @@ toronto.ctvnews.ca
 ctvnews.ca
 www.pandora.net
 pussl17.com
-couchpota.to
+
 fansided.com
 safebrowsing.googleapis.com
 prod9-api.acompli.net
@@ -107,9 +107,6 @@ www.useloom.com
 e6858.dsce9.akamaiedge.net
 a.root-servers.net
 a1051.b.akamai.net
-
-#roku stuff
-customer-feedbacks.web.roku.com
 
 #musicaly
 musically.zendesk.com
