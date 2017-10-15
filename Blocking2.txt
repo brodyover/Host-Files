@@ -1,4 +1,5 @@
 #other stuff
+coloredwool.us
 cognito-identity.us-east-1.amazonaws.com
 2217630246.log.optimizely.com
 maxcdn.bootstrapcdn.com
