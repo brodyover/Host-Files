@@ -7,8 +7,16 @@ vpn-servers-lb-1273940223.us-east-1.elb.amazonaws.com
 external.xx.fbcdn.net
 img.serveroute.com
 rtb-east-wins.crossinstall.com
+peraf6so-android.mobile-sdk-api.intercom.io
+proxyjs.luminatinet.com
+
 
 #other stuff
+ajax.cdnjs.com
+mwg6aj.com
+www.intercom.com
+nexus-websocket-a.intercom.io
+api.cloudmobi.net
 yandex.com
 www.yandex.com
 yk6233.com
