@@ -9,6 +9,9 @@ img.serveroute.com
 rtb-east-wins.crossinstall.com
 
 #other stuff
+yandex.com
+www.yandex.com
+yk6233.com
 cf-st.sc-cdn.net
 www.qdvsp.com
 www.vungle.com
