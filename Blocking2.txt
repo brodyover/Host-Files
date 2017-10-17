@@ -9,6 +9,7 @@ img.serveroute.com
 rtb-east-wins.crossinstall.com
 
 #other stuff
+cf-st.sc-cdn.net
 www.qdvsp.com
 www.vungle.com
 tbunet.com
