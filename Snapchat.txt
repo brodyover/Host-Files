@@ -1,4 +1,5 @@
 mvm.snapchat.com
+www.feelinsonice.com
 use.adserver.snapads.com
 sc-analytics.appspot.com
 app-analytics.snapchat.com
