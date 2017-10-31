@@ -17,6 +17,10 @@ www.snap.com
 support.snapchat.com
 businesshelp.snapchat.com
 scan.snapchat.com
+cf-st.sc-cdn.net
+snapcraft-prod-resources.storage.googleapis.com
+usc.adserver.snapads.com
+ads.flurry.com
 chat-gateway1-prod.chat.snapchat.com
 chat-gateway2-prod.chat.snapchat.com
 chat-gateway3-prod.chat.snapchat.com
