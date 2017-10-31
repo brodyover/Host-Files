@@ -5356,3 +5356,9 @@ p97-contacts.icloud.com
 p98-contacts.icloud.com
 p99-contacts.icloud.com
 p100-contacts.icloud.com
+
+cl1.apple.com
+cl2.apple.com
+cl3.apple.com
+cl4.apple.com
+cl5.apple.com
