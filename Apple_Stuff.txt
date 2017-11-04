@@ -1,9 +1,7 @@
 #apple stuff
-cf-st.sc-cdn.net
 buy.itunes.apple.com
 gs-loc.apple.com
 gspe21-ssl.ls.apple.com
-p17-fmfmobile.icloud.com
 gs-loc-new.ls-apple.com.akadns.net
 keyvalueservice.icloud.com
 app-measurement.com
@@ -41,3 +39,4 @@ f.gtld-servers.net
 l.root-servers.net
 play.itunes.apple.com
 init.itunes.apple.com
+keyvalueservice.fe.apple-dns.net
