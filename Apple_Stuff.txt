@@ -43,23 +43,15 @@ keyvalueservice.fe.apple-dns.net
 a1441.dscg.akamai.net
 images.apple.com
 keyvalueservice.fe.apple-dns.net
-netflix.com
 s2.symcb.com
 www.icloud.com
-yahoo.com
 gspe1-ssl.ls.apple.com
-api.textnow.me
 query.ess.apple.com
 init.itunes.apple.com
 courier.push.apple.com
 init.itunes.apple.com
-analytics.rayjump.com
-net.rayjump.com
-app-measurement.com
 e9c0fa7dec7c2c787bf6-84ef1b138c2cd8ee1188837a3412bc14.ssl.cf1.r
-
-
-
+iphonesubmissions.apple.com
 
 
 
