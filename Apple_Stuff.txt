@@ -40,3 +40,10 @@ l.root-servers.net
 play.itunes.apple.com
 init.itunes.apple.com
 keyvalueservice.fe.apple-dns.net
+a1441.dscg.akamai.net
+images.apple.com
+keyvalueservice.fe.apple-dns.net
+netflix.com
+s2.symcb.com
+www.icloud.com
+yahoo.com
