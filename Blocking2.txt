@@ -9,7 +9,7 @@ img.serveroute.com
 rtb-east-wins.crossinstall.com
 peraf6so-android.mobile-sdk-api.intercom.io
 proxyjs.luminatinet.com
-
+device-metrics-us.amazon.com
 
 #other stuff
 api.textnow.me
@@ -18,7 +18,8 @@ netflix.com
 analytics.rayjump.com
 net.rayjump.com
 app-measurement.com
-
+a1441.dscg.akamai.net
+serpens.iad.appboy.com
 
 #pinterest
 trk.pinterest.com
