@@ -52,6 +52,6 @@ courier.push.apple.com
 init.itunes.apple.com
 e9c0fa7dec7c2c787bf6-84ef1b138c2cd8ee1188837a3412bc14.ssl.cf1.r
 iphonesubmissions.apple.com
-
+itunes.apple.com.edgekey.net
 
 
