@@ -12,6 +12,13 @@ proxyjs.luminatinet.com
 
 
 #other stuff
+api.textnow.me
+yahoo.com
+netflix.com
+analytics.rayjump.com
+net.rayjump.com
+app-measurement.com
+
 
 #pinterest
 trk.pinterest.com
