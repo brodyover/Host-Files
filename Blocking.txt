@@ -43,6 +43,9 @@ gamefaqs.com
 ameblo.jp
 codeonclick.com
 okvsurvey.com
+nop.xpanama.net
+www.adservice.com
+www.googleadservices.com
 
 #roku stuff
 customer-feedbacks.web.roku.com
