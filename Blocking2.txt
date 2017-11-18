@@ -20,6 +20,9 @@ net.rayjump.com
 app-measurement.com
 a1441.dscg.akamai.net
 serpens.iad.appboy.com
+content.tapjoy.com
+www.lovequotesmessages.com
+issuemaryland.us
 
 #pinterest
 trk.pinterest.com
@@ -37,7 +40,6 @@ api.musical.ly
 uop.musical.ly
 stats.appsflyer.com
 events.appsflyer.com
-alog.umengcloud.com
 
 #skype
 a.config.skype.com
@@ -216,7 +218,6 @@ prod-usw2-jben.global.ssl.fastly.net
 cdnjs.cloudflare.com
 ssl.google-analytics.com
 js-agent.newrelic.com
-use.typekit.net
 blog.gotinder.com
 tech.gotinder.com
 
@@ -234,17 +235,14 @@ api.twitter.com
 platform.twitter.com
 t.co
 cdn.syndication.twimg.com
-syndication.twitter.com
 blog.twitter.com
 help.twitter.com
 dev.twitter.com
 status.twitter.com
 support.twitter.com
 about.twitter.com
-blog.twitter.com
-about.twitter.com
 ads.twitter.com
 business.twitter.com
 media.twitter.com
-dev.twitter.com
     
+ons-in Client Side JavaScripting, so only your computer will see or process your data input/output.
