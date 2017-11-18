@@ -53,5 +53,19 @@ init.itunes.apple.com
 e9c0fa7dec7c2c787bf6-84ef1b138c2cd8ee1188837a3412bc14.ssl.cf1.r
 iphonesubmissions.apple.com
 itunes.apple.com.edgekey.net
+captive.g.aaplimg.com
+commnat-cohort.ess.apple.com
+commnat-main.ess.apple.com
+configuration.apple.com
+iadsdk.apple.com
+init-p01md.apple.com
+init.ess.apple.com
+pancake.apple.com
+profile.ess.apple.com
+static.ess.apple.com
+
+
+
+
 
 
