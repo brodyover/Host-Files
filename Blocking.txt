@@ -5,10 +5,11 @@ cat /etc/pihole/gravity.list
 
 
 #other stuff
+www.steepto.com
 tacdn.com
 static.tacdn.com
-yts.moatads.com
-yt3.ggpht.com
+
+
 dcs.adgear.com
 mobilecrashreporting.googleapis.com
 www.improvemybrowser.com
