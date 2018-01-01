@@ -1,4 +1,9 @@
 #apple stuff
+appldnld.apple.com.akadns.net
+smp-device-content.apple.com
+appldnld.g.aaplimg.com
+basejumper.apple.com
+appldnld.apple.com
 buy.itunes.apple.com
 gs-loc.apple.com
 gspe21-ssl.ls.apple.com
