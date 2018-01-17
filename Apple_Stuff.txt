@@ -59,9 +59,14 @@ init.ess.apple.com
 pancake.apple.com
 profile.ess.apple.com
 static.ess.apple.com
-
-
-
+lcdn-locator.apple.com
+iphone-ld.apple.com
+valid.apple.com
+gdmf.apple.com
+usqas-edge.icloud-content.com
+wu-calculator.apple.com
+gsas.apple.com
+ds-aksb-a.akamaihd.net
 
 
 
