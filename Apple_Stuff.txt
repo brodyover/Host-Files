@@ -49,7 +49,6 @@ www.icloud.com
 gspe1-ssl.ls.apple.com
 query.ess.apple.com
 courier.push.apple.com
-e9c0fa7dec7c2c787bf6-84ef1b138c2cd8ee1188837a3412bc14.ssl.cf1.r
 captive.g.aaplimg.com
 commnat-cohort.ess.apple.com
 commnat-main.ess.apple.com
@@ -67,6 +66,5 @@ usqas-edge.icloud-content.com
 wu-calculator.apple.com
 gsas.apple.com
 ds-aksb-a.akamaihd.net
-
-
-
+ocsp.apple.com
+valid.origin-apple.com.akadns.net
