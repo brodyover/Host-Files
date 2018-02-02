@@ -48,6 +48,8 @@ nop.xpanama.net
 www.adservice.com
 www.googleadservices.com
 consumer-satisfaction.org
+
+
 android.bugly.qq.com
 mqtt.c10r.facebook.com
 officecdn.microsoft.com.edgesuite.net
@@ -92,6 +94,10 @@ resources.eyereturn.com
 d.ermisvc.com
 mcs.eyereturn.com
 beacon.krxd.net
+
+
+
+
 
 
 #roku stuff
