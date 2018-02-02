@@ -65,6 +65,8 @@ events3.adcolony.com
 adserver.unityads.unity3d.com
 ads30.adcolony.com
 wd.adcolony.com
+ws.tapjoyads.com
+ads30.adcolony.com
 ads.api.vungle.com
 events3alt.adcolony.com
 c4d-cdn.adcolony.com
@@ -77,6 +79,7 @@ config.unityads.unity3d.com
 config.immersv.io
 ads.aerserv.com
 by.uservoice.com
+connect.tapjoy.com
 prod2-files.acompli.net
 designhome.helpshift.com
 cdn-game.covethome.com
@@ -86,6 +89,7 @@ prod.geo.gluops.com
 config.uca.cloud.unity3d.com
 mqtt-mini.facebook.com
 ping.chartbeat.net
+prod2-files.acompli.net
 smetrics.corus.ca
 stats-tm.everesttech.net
 corus.hb.omtrdc.net
@@ -94,6 +98,19 @@ resources.eyereturn.com
 d.ermisvc.com
 mcs.eyereturn.com
 beacon.krxd.net
+
+ads30.adcolony.com
+auction.unityads.unity3d.com
+adserver.unityads.unity3d.com
+cdp.cloud.unity3d.com
+prod.geo.gluops.com
+service.fyber.com
+engine.fyber.com
+static.immersv.io
+config.immersv.io
+rpc.tapjoy.com
+
+
 
 
 
