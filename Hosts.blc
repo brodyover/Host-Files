@@ -1,10 +1,3 @@
-# Liste anti-phishing sécurisant l'accès à 840 sites commerciaux, financiers et sécuritaires
-# Licence : Creative Commons by-nc (http://creativecommons.org/licenses/by-nc/3.0/)
-# Diffusion et utilisation libres sous réserve de conserver les commentaires
-# © Airelle — http://rlwpx.free.fr/WPFF/hosts.htm — 02.03.2014
-::1	localhost
-127.0.0.1	localhost
-# Finance
 68.64.190.181	adb.org
 94.236.15.74	afdb.org
 110.75.143.33	alipay.com
@@ -219,7 +212,7 @@
 170.135.184.252	www.usbank.com
 159.45.2.68	www.wellsfargo.com
 195.28.229.187	zurich.com
-# Sécurité
+# SÃ©curitÃ©
 67.210.114.4	admuncher.com
 192.43.161.43	aladdin.com
 192.43.161.45	aladdin.fr
