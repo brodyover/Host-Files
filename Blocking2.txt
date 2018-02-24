@@ -12,6 +12,7 @@ proxyjs.luminatinet.com
 device-metrics-us.amazon.com
 
 #other stuff
+block.opendns.com
 api.textnow.me
 yahoo.com
 netflix.com
@@ -23,6 +24,9 @@ serpens.iad.appboy.com
 content.tapjoy.com
 www.lovequotesmessages.com
 issuemaryland.us
+
+#Insta
+live-upload.instagram.com
 
 #home app
 android.bugly.qq.com
