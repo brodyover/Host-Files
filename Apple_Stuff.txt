@@ -72,7 +72,6 @@ c.us1.dyntrk.com
 captive.apple.com
 gsp-ssl.ls-apple.com.akadns.net
 gsp-ssl.ls.apple.com
-linkedin.com
 mesu.g.aaplimg.com
 time.asis.apple.com
 time.pool.aliyun.com
