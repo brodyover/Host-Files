@@ -8,8 +8,12 @@ cat /etc/pihole/gravity.list
 www.steepto.com
 tacdn.com
 static.tacdn.com
-
-
+activation.easeus.com
+ambassador-api.s3.amazonaws.com
+ghostery-collector.ghostery.com
+license.resilio.com
+track.easeus.com
+www.easeus.com
 dcs.adgear.com
 mobilecrashreporting.googleapis.com
 www.improvemybrowser.com
