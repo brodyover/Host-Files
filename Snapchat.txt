@@ -1,3 +1,4 @@
+gcs.sc-cdn.net:
 mvm.snapchat.com
 www.feelinsonice.com
 use.adserver.snapads.com
