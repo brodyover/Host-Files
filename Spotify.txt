@@ -1,3 +1,7 @@
+i.scdn.co
+mobile-ap.spotify.com
+scannables.scdn.co
+
 audio-aa.spotify.com
 audio-ab.spotify.com
 audio-ac.spotify.com
