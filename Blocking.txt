@@ -52,8 +52,11 @@ nop.xpanama.net
 www.adservice.com
 www.googleadservices.com
 consumer-satisfaction.org
-
-
+m.chase.com
+global.americanexpress.com
+ofxdc.wellsfargo.com
+mservices.navyfcu.org
+mfasa.chase.com
 
 
 
