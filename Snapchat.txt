@@ -1,3 +1,4 @@
+snap.api.mapbox.com
 snap.events.mapbox.com
 instalog-prod.sc-prod.net
 am-prod.sc-jpl.com
