@@ -5,7 +5,8 @@ instalog-prod.sc-prod.net
 am-prod.sc-jpl.com
 auth.snapchat.com
 s.sc-jpl.com
-gcs.sc-cdn.net:
+gcs.sc-cdn.net
+am-prod.sc-jpl.com
 mvm.snapchat.com
 www.feelinsonice.com
 use.adserver.snapads.com
