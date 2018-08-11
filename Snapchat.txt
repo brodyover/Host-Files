@@ -1,13 +1,16 @@
 rtam-collector.appspot.com
+pro-accounts.snapchat.com
+sc-prod-memories-media-us-east-2.s3.us-east-2.amazonaws.com
+sc-prod-memories-thumbnail-us-east-2.s3.us-east-2.amazonaws.coms
 snap.api.mapbox.com
 jaguar-prod.snapchat.com
 snap.events.mapbox.com
 instalog-prod.sc-prod.net
 am-prod.sc-jpl.com
 auth.snapchat.com
+ms.sc-jpl.comm
 s.sc-jpl.com
 gcs.sc-cdn.net
-am-prod.sc-jpl.com
 mvm.snapchat.com
 www.feelinsonice.com
 use.adserver.snapads.com
@@ -16,10 +19,12 @@ app-analytics.snapchat.com
 feelinsonice.appspot.com
 appspot.l.google.com
 data.flurry.com
+gtq.sct.sc-prod.net
 feelinsonice-hrd.appspot.com
 feelinsonice.l.google.com
 app.snapchat.com
 feelinsonice.com
+cf-st.sc-cdn.net
 snapchat.com
 www.snapchat.com
 accounts.snapchat.com
@@ -27,7 +32,6 @@ www.snap.com
 support.snapchat.com
 businesshelp.snapchat.com
 scan.snapchat.com
-cf-st.sc-cdn.net
 snapcraft-prod-resources.storage.googleapis.com
 usc.adserver.snapads.com
 ads.flurry.com
@@ -41,5 +45,3 @@ chat-gateway6-prod.chat.snapchat.com
 chat-gateway7-prod.chat.snapchat.com
 chat-gateway8-prod.chat.snapchat.com
 chat-gateway9-prod.chat.snapchat.com
-
-
