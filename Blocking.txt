@@ -107,6 +107,33 @@ smtp.mail.yahoo.com
 www.accountonline.com
 www.educationconnectors.com
 xml.vokut.com
+adashx4ae.ut.taobao.com
+adviservoice.izweb.biz
+akliesenler.com
+amdcopen.m.taobao.com
+api.developer.xiaomi.com
+api.zoosk.com
+cdn.ampproject.org
+data-api-prod.opensignal.com
+eu-api.coolkit.cc
+hotmail-com.olc.protection.outlook.com
+imap.comcast.net
+littlefield.logs.roku.com
+mail.aol.com
+mail.salsgiver.com
+mail.yandex.ru
+mta5.am0.yahoodns.net
+out.alice.it
+rpc-php.trafficfactory.biz
+sendbird.reddit.com
+smtp.live.com
+smtp.orange.fr
+smtp.pchome.com.tw
+trackmethod.com
+ulogs.umeng.com
+umengjmacs.m.taobao.com
+www.choicehotels.com
+www4.citizensbankonline.com
 
 #roku stuff
 customer-feedbacks.web.roku.com
