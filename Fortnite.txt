@@ -227,3 +227,4 @@ vpn.epicgames.com
 web-02.epicgames.com
 webmail.epicgames.com
 www.epicgames.com
+js-agent.newrelic.com
