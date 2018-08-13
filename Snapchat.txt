@@ -1,4 +1,5 @@
 rtam-collector.appspot.com
+us-central1-gcp.api.snapchat.com
 pro-accounts.snapchat.com
 sc-prod-memories-media-us-east-2.s3.us-east-2.amazonaws.com
 sc-prod-memories-thumbnail-us-east-2.s3.us-east-2.amazonaws.coms
