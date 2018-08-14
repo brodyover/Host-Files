@@ -7,6 +7,7 @@ snap.api.mapbox.com
 jaguar-prod.snapchat.com
 snap.events.mapbox.com
 instalog-prod.sc-prod.net
+us-central1-gcp.api.snapchat.com
 am-prod.sc-jpl.com
 auth.snapchat.com
 ms.sc-jpl.comm
