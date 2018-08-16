@@ -1,17 +1,17 @@
-0.0.0.0 a-0001.a-msedge.net
-0.0.0.0 a.ads1.msn.com
-0.0.0.0 a.ads2.msn.com
-0.0.0.0 ad.doubleclick.net
-0.0.0.0 adnexus.net
-0.0.0.0 adnxs.com
-0.0.0.0 ads.msn.com
-0.0.0.0 ads1.msads.net
-0.0.0.0 ads1.msn.com
-0.0.0.0 az361816.vo.msecnd.net
-0.0.0.0 az512334.vo.msecnd.net
-0.0.0.0 ca.telemetry.microsoft.com
-0.0.0.0 cache.datamart.windows.com
-0.0.0.0 choice.microsoft.com
+a-0001.a-msedge.net
+a.ads1.msn.com
+a.ads2.msn.com
+ad.doubleclick.net
+adnexus.net
+adnxs.com
+ads.msn.com
+ads1.msads.net
+ads1.msn.com
+az361816.vo.msecnd.net
+az512334.vo.msecnd.net
+ca.telemetry.microsoft.com
+cache.datamart.windows.com
+choice.microsoft.com
 choice.microsoft.com.nsatc.net
 choice.microsoft.com.nstac.net
 compatexchange.cloudapp.net
