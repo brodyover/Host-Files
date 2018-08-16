@@ -1,0 +1,71 @@
+0.0.0.0 a-0001.a-msedge.net
+0.0.0.0 a.ads1.msn.com
+0.0.0.0 a.ads2.msn.com
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 adnexus.net
+0.0.0.0 adnxs.com
+0.0.0.0 ads.msn.com
+0.0.0.0 ads1.msads.net
+0.0.0.0 ads1.msn.com
+0.0.0.0 az361816.vo.msecnd.net
+0.0.0.0 az512334.vo.msecnd.net
+0.0.0.0 ca.telemetry.microsoft.com
+0.0.0.0 cache.datamart.windows.com
+0.0.0.0 choice.microsoft.com
+choice.microsoft.com.nsatc.net
+choice.microsoft.com.nstac.net
+compatexchange.cloudapp.net
+corp.sts.microsoft.com
+corpext.msitadfs.glbdns2.microsoft.com
+cs1.wpc.v0cdn.net
+db3wns2011111.wns.windows.com
+df.telemetry.microsoft.com
+diagnostics.support.microsoft.com
+fe2.update.microsoft.com.akadns.net
+fe3.delivery.dsp.mp.microsoft.com.nsatc.net
+feedback.microsoft-hohm.com
+feedback.search.microsoft.com
+feedback.windows.com
+i1.services.social.microsoft.com
+i1.services.social.microsoft.com.nsatc.net
+msnbot-207-46-194-33.search.msn.com
+oca.telemetry.microsoft.com
+oca.telemetry.microsoft.com.nsatc.net
+pre.footprintpredict.com
+preview.msn.com
+rad.msn.com
+redir.metaservices.microsoft.com
+reports.wes.df.telemetry.microsoft.com
+s0.2mdn.net
+services.wes.df.telemetry.microsoft.com
+settings-sandbox.data.microsoft.com
+settings-win.data.microsoft.com
+settings.data.microsof.com
+sls.update.microsoft.com.akadns.net
+spynet2.microsoft.com
+spynetalt.microsoft.com
+sqm.df.telemetry.microsoft.com
+sqm.telemetry.microsoft.com
+sqm.telemetry.microsoft.com.nsatc.net
+ssw.live.com
+statsfe1.ws.microsoft.com
+statsfe2.update.microsoft.com.akadns.net
+statsfe2.ws.microsoft.com
+survey.watson.microsoft.com
+telecommand.telemetry.microsoft.com
+telecommand.telemetry.microsoft.com.nsatc.net
+telemetry.appex.bing.net
+telemetry.microsoft.com
+telemetry.urs.microsoft.com
+v10.vortex-win.data.microsoft.com
+view.atdmt.com
+vortex-sandbox.data.microsoft.com
+vortex-win.data.microsoft.com
+vortex.data.microsoft.com
+watson.live.com
+watson.microsoft.com
+watson.ppe.telemetry.microsoft.com
+watson.telemetry.microsoft.com
+watson.telemetry.microsoft.com.nsatc.net
+wes.df.telemetry.microsoft.com
+win10.ipv6.microsoft.com
