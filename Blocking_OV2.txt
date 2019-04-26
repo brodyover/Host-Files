@@ -6,12 +6,7 @@ images.bitmoji.com
 api.textnow.me
 yahoo.com
 netflix.com
-analytics.rayjump.com
-net.rayjump.com
-app-measurement.com
 a1441.dscg.akamai.net
-serpens.iad.appboy.com
-content.tapjoy.com
 www.lovequotesmessages.com
 issuemaryland.us
 
