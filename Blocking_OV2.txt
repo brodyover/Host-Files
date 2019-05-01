@@ -2,11 +2,7 @@
 10.0.168.192.in-addr.arpa
 168.168.228.185.in-addr.arpa
 e6858.dsce9.akamaiedge.net
-images.bitmoji.com
 api.textnow.me
-yahoo.com
-netflix.com
-a1441.dscg.akamai.net
 www.lovequotesmessages.com
 issuemaryland.us
 
