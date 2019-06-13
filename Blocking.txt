@@ -42,8 +42,6 @@ googlesyndication.com
 h-adashx4ae.ut.taobao.com
 idpix.media6degrees.com
 internet.cbf3ef0c6d.elb.xiaomi.com
-kong-lb-217691141.us-east-1.elb.amazonaws.com
-lb-mc-04-226720976.ap-southeast-1.elb.amazonaws.com
 magnetic.t.domdex.com
 match.basebanner.com
 match.prod.bidr.io
@@ -53,14 +51,12 @@ metok-ccc.intl.xiaomi.com
 microsoftedgewelcome.microsoft.com
 mobile-collector.newrelic
 nav.smartscreen.microsoft.com
-node-loadbalancer-1636859379.us-east-1.elb.amazonaws.com
 ocsp.entrust.net
 p3.eyereturn.com
 pagead2.googlesyndication.com
 pagead2.tpc.googlesyndication.com
 pipe.cloudapp.aria.akadns.net
 pipe.prd.skypedata.akadns.net
-pipe.skype.com
 pixel-sync.sitescout.com
 pixel.adsafeprotected.com
 pixel.quantserve.com
@@ -72,7 +68,6 @@ prod.imgur.map.fastlylb.net
 px.owneriq.net
 quickresource.eyereturn.com
 rcm-na.amazon-adsystem.com
-reply
 resolver.msg.xiaomi.net
 resources.eyereturn.com
 rtb-csync.smartadserver.com
@@ -113,7 +108,6 @@ dcs.adgear.com
 mobilecrashreporting.googleapis.com
 www.improvemybrowser.com
 pussl18.com
-canadiancoupons.net
 freebies.com
 static.doubleclick.net
 www.pandora.net
@@ -124,7 +118,6 @@ safebrowsing.googleapis.com
 e.crashlytics.com
 crashlytics.com
 www.popculturediedin2009.com
-sysctl.org
 www.popsugar.com
 rules.comprigo.com
 www.comprigo.com
@@ -194,13 +187,10 @@ keystone.mwbsys.com
 smtp.orange.fr
 us-disp.coolkit.cc
 global.americanexpress.com
-m.chase.com
 metadropodex63.club
 mycontrolsoftwaret.top
 ofxdc.wellsfargo.com
-smtp.mail.yahoo.com
 www.accountonline.com
-www.educationconnectors.com
 xml.vokut.com
 adashx4ae.ut.taobao.com
 adviservoice.izweb.biz
@@ -208,12 +198,9 @@ akliesenler.com
 amdcopen.m.taobao.com
 api.developer.xiaomi.com
 api.zoosk.com
-cdn.ampproject.org
 data-api-prod.opensignal.com
 eu-api.coolkit.cc
-hotmail-com.olc.protection.outlook.com
 imap.comcast.net
-littlefield.logs.roku.com
 mail.aol.com
 mail.salsgiver.com
 mail.yandex.ru
@@ -231,4 +218,5 @@ www.choicehotels.com
 www4.citizensbankonline.com
 
 #roku stuff
+littlefield.logs.roku.com
 customer-feedbacks.web.roku.com
