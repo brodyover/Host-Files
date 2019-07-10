@@ -29,3 +29,9 @@ mon.tiktokv.com
 ib.tiktokv.com
 p16-tiktokcdn-com.akamaized.net
 v16-tiktokcdn-com.akamaized.net
+v19.muscdn.com
+v16.muscdn.com
+p16.muscdn.com
+mon.musical.ly
+tos-maliva16-up.muscdn.com
+bkbd-maliva16-up.muscdn.com
