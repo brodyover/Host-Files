@@ -30,7 +30,6 @@ dsum.casalemedia.com
 dt.adsafeprotected.com
 dualstack.imgur-1414492366.us-east-1.elb.amazonaws.com
 dxfufjxir9er8.cloudfront.net
-e14857.ksd.akamaiedge.net
 eb2.3lift.com
 edge-lb-c-prod1-1815605384.us-east-1.elb.amazonaws.com
 filamentapp.s3.amazonaws.com
